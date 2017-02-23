@@ -29,8 +29,7 @@ rtmp://70.36.100.38:1935/live playpath=canal13_hq.stream swfUrl=http://www.rpc.c
 rtmp://67.159.60.37/intercable playpath=intercable  swfUrl=http://www.desdeparaguay.com/images/dsdpy-play-2.swf?
 
 
-#EXTINF:-1,[COLOR red]---Internatcional---[/COLOR]
-http://?
+
 
 #EXTM3U url-tvg="http://exabytetv.info/guia.xml"
 #EXTINF:0 group-title="Z etiquetas",EXABYTE TV  07-02-2017  02:38
